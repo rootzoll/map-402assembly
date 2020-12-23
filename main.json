@@ -478,32 +478,6 @@
          "tilewidth":32
         }, 
         {
-         "columns":32,
-         "firstgid":1945,
-         "image":"rpg_maker_vx_rtp_tileset_by_telles0808_d2mslkf.png",
-         "imageheight":2016,
-         "imagewidth":1024,
-         "margin":0,
-         "name":"rpg_maker_vx_rtp_tileset_by_telles0808_d2mslkf",
-         "spacing":0,
-         "tilecount":2016,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":8,
-         "firstgid":3961,
-         "image":"rpg_maker_wooden_floor_by_ayene_chan_d587fmi.png",
-         "imageheight":256,
-         "imagewidth":256,
-         "margin":0,
-         "name":"rpg_maker_wooden_floor_by_ayene_chan_d587fmi",
-         "spacing":0,
-         "tilecount":64,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":20,
          "firstgid":4025,
          "image":"IceTileset.png",
@@ -526,19 +500,6 @@
          "name":"dark_forest",
          "spacing":0,
          "tilecount":152,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":20,
-         "firstgid":4357,
-         "image":"sheet (1).png",
-         "imageheight":288,
-         "imagewidth":640,
-         "margin":0,
-         "name":"sheet (1)",
-         "spacing":0,
-         "tilecount":180,
          "tileheight":32,
          "tilewidth":32
         }],
