@@ -368,19 +368,6 @@
          "tilewidth":32
         }, 
         {
-         "columns":13,
-         "firstgid":303,
-         "image":"pokemon_train_station_by_pokemoneclipse_d3b0fsj.png",
-         "imageheight":208,
-         "imagewidth":416,
-         "margin":0,
-         "name":"pokemon_train_station_by_pokemoneclipse_d3b0fsj",
-         "spacing":0,
-         "tilecount":78,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":12,
          "firstgid":381,
          "image":"ForestDungeonWallTileSet.png",
