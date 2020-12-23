@@ -476,20 +476,7 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":20,
-         "firstgid":4025,
-         "image":"IceTileset.png",
-         "imageheight":288,
-         "imagewidth":640,
-         "margin":0,
-         "name":"IceTileset",
-         "spacing":0,
-         "tilecount":180,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
+        },
         {
          "columns":8,
          "firstgid":4205,
