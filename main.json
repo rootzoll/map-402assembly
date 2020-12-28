@@ -284,6 +284,12 @@
          "id":28,
          "name":"technovillage",
          "opacity":0.92,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"{<3d-printing-assembly>\/main.json}"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":164,
@@ -2016,79 +2022,6 @@
          "spacing":0,
          "tilecount":80,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":2,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"{<3d-printing-assembly>\/main.json}"
-                        }]
-                }, 
-                {
-                 "id":3,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"{<3d-printing-assembly>\/main.json}"
-                        }]
-                }, 
-                {
-                 "id":10,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"{<3d-printing-assembly>\/main.json}"
-                        }]
-                }, 
-                {
-                 "id":11,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"{<3d-printing-assembly>\/main.json}"
-                        }]
-                }, 
-                {
-                 "id":18,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"{<3d-printing-assembly>\/main.json}"
-                        }]
-                }, 
-                {
-                 "id":19,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"{<3d-printing-assembly>\/main.json}"
-                        }]
-                }, 
-                {
-                 "id":26,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"{<3d-printing-assembly>\/main.json}"
-                        }]
-                }, 
-                {
-                 "id":27,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"{<3d-printing-assembly>\/main.json}"
-                        }]
-                }],
          "tilewidth":32
         }],
  "tilewidth":32,
