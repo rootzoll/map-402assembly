@@ -288,7 +288,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<3d-printing-assembly>\/main.json}"
+                 "value":"{<3d-printing>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
