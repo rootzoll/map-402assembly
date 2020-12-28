@@ -247,7 +247,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/main.json}"
+                 "value":"{<lobby>\/main.json#402-payment-required}"
                 }],
          "type":"tilelayer",
          "visible":true,
