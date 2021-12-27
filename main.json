@@ -134,6 +134,12 @@
          "id":47,
          "name":"co2 txt",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"public domain (self created)"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":164,
@@ -2075,6 +2081,12 @@
          "imagewidth":118,
          "margin":0,
          "name":"co2 txt",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"public domain (self created)"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
