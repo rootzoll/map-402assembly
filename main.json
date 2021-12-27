@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":146,
  "infinite":false,
  "layers":[
@@ -362,6 +369,12 @@
          "id":33,
          "name":"bitcoin sofa jitsi",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"world:\/\/bitcoin\/main.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":164,
@@ -497,7 +510,7 @@
  "nextobjectid":4,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -2094,6 +2107,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":164
 }
