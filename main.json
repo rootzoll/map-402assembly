@@ -119,7 +119,17 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/rumble.com\/vr9i0j-why-are-hillary-and-trump-united-in-warning-of-bitcoins-dangers-interview-w.html"
+                 "value":"https:\/\/independentnewscasts.com\/v\/1rbu32PO5jY"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE\/touch to find out why Bitcoin is a Danger to the US Dollar (follow external link)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -133,12 +143,6 @@
          "id":48,
          "name":"Inflation",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/twitter.com\/JanssenAK\/status\/1468148759179706368?s=20"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":164,
@@ -197,12 +201,6 @@
          "id":44,
          "name":"Blockdigest",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/c\/BlockDigest\/"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":164,
