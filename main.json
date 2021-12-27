@@ -156,6 +156,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/netpositive.money\/calculator\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE\/touch to open CO2 Footprint calculator for your Bitcoin holdings (accept follow link)"
                 }],
          "type":"tilelayer",
          "visible":true,
